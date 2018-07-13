@@ -1,0 +1,28 @@
+NORMER LA LIBFT
+norme
+penser debug et clean leaks du globbing dans l'autocompletion //normalement ok
+debugger l'history
+clean les leaks de l'history
+chercher des bugs dans l'edition // normalement ok
+gerer les signaux correctement dont sigwinch //reverifier les signaux
+revoir le ctrl-D // revoir mais ok
+penser a gerer le echap qui fout bien la merde dans ma putain d'edition de ligne // skip escape
+penser a remettre la gestion des signaux si env void // probleme
+probleme gestion signaux plusieurs shells lances // normalement ok
+segfault /dev/random dans fonctions execute + pas de condition d'arret
+bug line edit pas de retour a la ligne derniere ligne
+
+signaux a gerer :
+- 15
+- 24
+- 25
+- 26
+- 27
+- 30
+- 31
+
+gerer le parsing de la fin de la ligne dans le bang (")
+bug de deprotection a regarder
+remove le getenv du init termios
+
+penser a demander a merlin pour la condition d'arret dans charge eof

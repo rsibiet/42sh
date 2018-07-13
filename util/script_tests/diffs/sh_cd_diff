@@ -1,0 +1,94 @@
+/nfs/2015/u/udelorme/Projects
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42/lnk
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42/test_lnk/to_lnk
+/nfs/2015/u/udelorme/Projects/sh42
+/
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42
+/
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42
+/
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42/test_no_access
+/nfs/2015/u/udelorme/Projects/sh42
+util/script_tests/cd_test.sh: line 51: cd: test_no_access: Permission denied
+/nfs/2015/u/udelorme/Projects/sh42
+/nfs/2015/u/udelorme/Projects/sh42/test_no_access
+util/script_tests/cd_test.sh: line 57: cd: .: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+util/script_tests/cd_test.sh: line 59: cd: ../test_no_access: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+util/script_tests/cd_test.sh: line 61: cd: ..: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+util/script_tests/cd_test.sh: line 63: cd: weghrsergr: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+util/script_tests/cd_test.sh: line 65: cd: qefwwegeaafer: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+util/script_tests/cd_test.sh: line 67: cd: ewfrgqergaerg: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+pwd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 71: cd: /weghrsergr: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 73: cd: /qefwwegeaafer: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 75: cd: /ewfrgqergaerg: No such file or directory
+/nfs/2015/u/udelorme
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 79: cd: /weghr/sergr: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 81: cd: /qefw/wegeaafer: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 83: cd: /ewfrg/qergaerg: No such file or directory
+/nfs/2015/u/udelorme
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 87: cd: weghr/sergr: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 89: cd: qefw/wegeaafer: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 91: cd: ewfrg/qergaerg: No such file or directory
+/nfs/2015/u/udelorme
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 95: cd: weghr/sergr/: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 97: cd: qefw/wegeaafer/: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 99: cd: ewfrg/qergaerg/: No such file or directory
+/nfs/2015/u/udelorme
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 103: cd: weghrsergr/: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 105: cd: qefwwegeaafer/: No such file or directory
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 107: cd: ewfrgqergaerg/: No such file or directory
+/nfs/2015/u/udelorme
+/
+util/script_tests/cd_test.sh: line 112: cd: /.wrgewgrwerg: No such file or directory
+/nfs/2015/u/udelorme
+/nfs/2015/u/udelorme
+util/script_tests/cd_test.sh: line 116: cd: .ergwergewrg: No such file or directory
+/
+/usr

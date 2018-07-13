@@ -1,0 +1,7 @@
+!! : search last command typed
+!!asd : asd: command not found
+!asd : search first match of 'asd' command
+!?asd : search first occurence of 'asd' in all the commands
+!!! : !: event not found
+!!!asd : asd: event not found
+!!!! : !!: command not found

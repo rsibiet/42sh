@@ -1,0 +1,31 @@
+1 SIGHUP : closing
+2 SIGINT : reprint prompt
+3 SIGQUIT : nothing aparently
+4 SIGILL : closing
+5 SIGTRAP : closing
+6 SIGABRT : closing
+7 SIGEMT : closing
+8 SIGFPE : closing
+9 SIGKILL : closing
+10 SIGBUS : closing
+11 SIGSEGV : closing
+12 SIGSYS : closing
+13 SIGPIPE : closing
+14 SIGALRM : closing
+15 SIGTERM : nothing aparently
+16 SIGURG : nothing aparently
+17 SIGSTOP : suspending
+18 SIGSTP : nothing aparently
+19 SIGCONT : nothing aparently
+20 SIGCHLD : nothing aparently
+21 SIGTTIN : nothing aparently
+22 SIGTTOU : nothing aparently
+23 SIGIO : nothing aparently
+24 SIGXCPU : closing
+25 SIGXFSZ : closing
+26 SIGVTALRM : closing
+27 SIGPROF : closing
+28 SIGWINCH : handled
+29 SIGINFO : nothing aparently
+30 SIGUSR1 : closing
+31 SIGUSR2 : closing

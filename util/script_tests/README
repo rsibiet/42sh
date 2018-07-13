@@ -1,0 +1,5 @@
+les tests sont a lancer a partir du repoeroire racine du projet
+ils se lancent de la facon suivante :
+./sh42 < util/script_tests/file_test.sh > file_out ; diff --ignore-tab-expansion --ignore-space-change file_out util/script_tests/diffs/file_diff
+si le diff ne renvoie rien, tout s'est bien passe
+les diffs sont faits a partir des comportements de sh
